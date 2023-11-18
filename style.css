@@ -1,0 +1,121 @@
+.main-box{
+    border: 3px solid rgb(219, 37, 37);
+    width: 536px;
+    height:320px;
+    padding: 50px;
+    margin: 20px auto;
+   
+   
+    
+}
+.first-box{
+    border: 3px solid rgb(219, 37, 37);
+    width: 550px;
+    height: 5px;
+    padding: 30px;
+    margin-right:100px;
+    margin-top: -10px;
+    margin-left:-40px;
+}
+.second-box{
+    border: 3px solid rgb(219, 37, 37);
+    width: 550px;
+    height:40px;
+    padding: 30px;
+    margin-right:100px;
+    margin-top: 15px;
+    margin-left:-40px;
+}
+
+.third-box{
+    border: 3px solid rgb(219, 37, 37);
+    width: 550px;
+    height:50px;
+    padding: 29px;
+    margin-right:100px;
+    margin-top: 15px;
+    margin-left:-40px;
+
+}
+.inner-box{
+border: 3px solid rgb(219, 37, 37);
+    width: 560px;
+    height:63px;
+    padding: 12px;
+    margin-left:-3.5%;
+    margin-top: -4%;
+    
+}
+.end-line{
+    border: 3px solid rgb(219, 37, 37);
+    width: 103.55%;
+    margin-left:-13px;
+    margin-right: 5px;
+    margin-top: 5%;
+  
+}
+.button ,.box{
+    display: inline-block;
+    border: 3px solid rgb(219, 37, 37);
+    width: 60px;
+    height: 30px;
+    margin: 30px 12px;
+ 
+
+
+}
+.first-box p{
+    font-size: 40px;
+    padding:5px auto;
+    margin-top: -20px;
+    margin-bottom: 45px;
+   
+}
+.second-box p{
+    margin-top: -15px;
+    margin-left: -5px;
+    
+}
+.inner-box p{
+    margin-bottom: -25px;
+    margin-top: 2px;
+    padding-bottom: 5px;
+  
+}
+.secondp{
+  padding: 5px;
+  padding-left: 2.5px;
+  margin-left:-5px;
+    
+    
+}
+.last-line{
+    margin: 15px;
+    margin-left:-37px;
+    
+
+    
+   
+}
+button{
+    border: 3px solid red;
+    background-color: white;
+    padding: 5px;
+    margin-left:3px;
+    margin-right: 5px;
+}
+#link{
+    color: blue;
+    margin-left:-5px;
+    margin-left: 2px;
+    margin-right: 3px;
+}
+.main-box li{
+    margin-left: -47px;
+    margin-bottom: -71px;
+    text-decoration: solid;
+    
+   
+}
+
+
